@@ -60,4 +60,4 @@ async def on_message(message):
         await message.channel.send(b.emoji_res(user_message.lower()))
 
 # put your bot discord token here replacing text
-client.run("insert discord token here")
+client.run("insert Discord bot token here")
